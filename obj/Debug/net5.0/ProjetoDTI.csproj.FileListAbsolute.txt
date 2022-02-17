@@ -1,0 +1,16 @@
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\bin\Debug\net5.0\ProjetoDTI.exe
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\bin\Debug\net5.0\ProjetoDTI.deps.json
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\bin\Debug\net5.0\ProjetoDTI.runtimeconfig.json
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\bin\Debug\net5.0\ProjetoDTI.runtimeconfig.dev.json
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\bin\Debug\net5.0\ProjetoDTI.dll
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\bin\Debug\net5.0\ref\ProjetoDTI.dll
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\bin\Debug\net5.0\ProjetoDTI.pdb
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\obj\Debug\net5.0\ProjetoDTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\obj\Debug\net5.0\ProjetoDTI.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\obj\Debug\net5.0\ProjetoDTI.AssemblyInfo.cs
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\obj\Debug\net5.0\ProjetoDTI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\obj\Debug\net5.0\ProjetoDTI.dll
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\obj\Debug\net5.0\ref\ProjetoDTI.dll
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\obj\Debug\net5.0\ProjetoDTI.pdb
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\obj\Debug\net5.0\ProjetoDTI.genruntimeconfig.cache
+C:\Users\User\Documents\ProjetosAED\ProjetoDTI\obj\Debug\net5.0\ProjetoDTI.csproj.AssemblyReference.cache
