@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\ProjetosAED\\ProjetoDTI\\ProjetoDTI.csproj": {}
+    "C:\\Users\\User\\Documents\\ProjetosAED\\ProjetoDTI\\Music database\\ProjetoDTI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\ProjetosAED\\ProjetoDTI\\ProjetoDTI.csproj": {
+    "C:\\Users\\User\\Documents\\ProjetosAED\\ProjetoDTI\\Music database\\ProjetoDTI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\ProjetosAED\\ProjetoDTI\\ProjetoDTI.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\ProjetosAED\\ProjetoDTI\\Music database\\ProjetoDTI.csproj",
         "projectName": "ProjetoDTI",
-        "projectPath": "C:\\Users\\User\\Documents\\ProjetosAED\\ProjetoDTI\\ProjetoDTI.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\ProjetosAED\\ProjetoDTI\\Music database\\ProjetoDTI.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\ProjetosAED\\ProjetoDTI\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\ProjetosAED\\ProjetoDTI\\Music database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
